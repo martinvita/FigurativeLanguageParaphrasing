@@ -1,0 +1,2 @@
+# FigurativeLanguageParaphrasing
+Predicting metaphor/figurative language paraphrase
