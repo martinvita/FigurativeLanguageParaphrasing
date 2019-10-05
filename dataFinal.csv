@@ -1,0 +1,745 @@
+"PremiseID","Premise","HypothesisID","Hypothesis","Grade","Label","Partition"
+"premID154","Then they cried a sea of tears ","hypoID613","Then they cried a lot",4,1,1
+"premID132","She had a heart of stone. ","hypoID528","She was kind.",1,0,1
+"premID180","The faculty meeting was a nightmare","hypoID717","The faculty meeting was amusing ",2,1,1
+"premID15","my love is a summer day ","hypoID59","my feeling of love is pleasant and joyful",4,1,1
+"premID10","he was feeling down hurt and sad  ","hypoID40","he was in a blue mood",3,1,1
+"premID107","The animal shakes its tail in the air like a whip. ","hypoID425","The animal shakes in the air.",1,0,1
+"premID72","How can we build a knowledge economy if research is handcuffed? (Barque and Chaumartin 2009) ","hypoID287","If research is kept still and is not stimulated  it is not possible to build an economy based on knowledge",3,1,1
+"premID95","Nobody cares about the roots of modern civilization. ","hypoID377","He was known as a colourful dog.",1,0,1
+"premID68","His condescending attitude made my blood boil. ","hypoID270","His condescending attitude made me enthusiastic.",1,0,1
+"premID41","Every person has bitter memories ","hypoID161","Every person can remember some sad life experience",3,1,1
+"premID118","The darted harpoon was lightning in the sea. ","hypoID472","The harpoon was in the sea and there was a lightning flash.",2,1,1
+"premID138","The promise between us was a flower ","hypoID552","The promise between us was old and granted",2,1,1
+"premID17","she cut him down with her words ","hypoID68","she told him things that made him sad",3,1,1
+"premID57","He lived in a state of deep terror ","hypoID225","He lived experiencing intense feelings of fear and dread",4,1,1
+"premID182","She knew she was burning in shame","hypoID725","She knew she was feeling an intense shame ",4,1,1
+"premID22","then a colorful joy exploded in her chest ","hypoID87","then she felt down and depressed",1,0,1
+"premID96","Now you can fade off to sleep.  ","hypoID383","Now you can sleep.",3,1,1
+"premID8","Don't mention Tom 's promotion to Mike as it would be a red flag to a bull. ","hypoID31","Don't mention Tom 's promotion to Mike as it is sure to make him kind of sad.",2,1,1
+"premID171","In the war on terror, American presidents must monitor not only the main terrorist organizations but their offshoots around the world as well","hypoID682","American presidents must monitor the main terrorist organizations as well as any kind of group developing from them around the world ",3,1,1
+"premID13","an ancient anger exploded in his heart ","hypoID49","an anger he had suppressed for a long time overwhelmed him",4,1,1
+"premID6","While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.  ","hypoID22","While his one live leg made lively echoes along the deck every stroke of his dead limb was a coffin noise.",3,1,1
+"premID24","we were sinking in an ocean of grass ","hypoID95","we were sinking in the ocean",1,0,1
+"premID148","The wind howled; the waves dashed their bucklers together - we were in the jaws of death  ","hypoID592","The wind roared; the waves collided - we were risking our lives.",4,1,1
+"premID162","We dug up some interesting facts ","hypoID647","We have researched   and eventually found  some facts of interest",4,1,1
+"premID18","the crowd was a roaring river ","hypoID70","the crowd was impressive and looked like a river",2,1,1
+"premID126","The guy was a floating whale in the small swimming pool. ","hypoID501","The guy looked fat and large while floating in the small swimming pool.",4,1,1
+"premID93","My lawyer is a shark ","hypoID372","My lawyer is somewhat dangerous",3,1,1
+"premID80","I was staring straight into the shining sun ","hypoID318","I was considering my future career",1,0,1
+"premID39","During the conflict the seeds of peace were planted. ","hypoID155","It was the end of the war.",2,1,1
+"premID58","He looked neither one way nor the other way but sat like a carved image. ","hypoID230","He looked neither one way nor the other way but sat nervously twitching and agitated.",1,0,1
+"premID159","Those galaxies were jellyfishes in the abyss of space. ","hypoID634","Those galaxies hosted jellyfishes in the abyss of space.",1,0,1
+"premID88","The faculty meeting was a circus ","hypoID352","The faculty meeting was very interesting",2,1,1
+"premID32","All the following sentences have nothing to do with this sentence ","hypoID127","He thinks these documents will become known soon or late",1,0,1
+"premID36","By that time my friend was broken so he had to sell his house ","hypoID144","By that time my friend was wealthy and he had to sell his house",1,0,1
+"premID45","Floating on the waves we saw the abandoned boat a dark sight indeed. ","hypoID177","Floating on the waves we saw the abandoned boat a funny sight indeed.",1,0,1
+"premID130","The man still had heavy feelings about the situation ","hypoID518","The man still had good feelings about the situation",1,0,1
+"premID161","War was a nightmare. ","hypoID644","War was a terrible thing.",4,1,1
+"premID89","Katie’s plan to get into college was a house of cards on a crooked table ","hypoID354","Katie’s plan to get into college had very little chances to become a reality",3,1,1
+"premID120","The faculty meeting was a tragedy ","hypoID479","The faculty meeting was very difficult and emotional",3,1,1
+"premID80","I was staring straight into the shining sun ","hypoID320","I was trying to study",1,0,1
+"premID183","The faculty meeting was an easy breeze","hypoID732","At the faculty meeting we talked about the breeze ",2,1,1
+"premID9","The great gold apples of light hang from the street’s long bough dripping their light on the faces that drift below on the faces that drift and blow ","hypoID36","the sun and the moon hang along the streets and blind people",1,0,1
+"premID153","She is fishing in troubled waters. ","hypoID609","She is fishing in a lake.",2,1,1
+"premID5","Success is a bastard as it has many father; failure is an orphan with no takers. ","hypoID19","Success is a kind of dog and failure is a child.",2,1,1
+"premID179","Her eyes were fireflies","hypoID716","Her eyes were flying away ",2,1,1
+"premID86","It always rained in my life  he said ","hypoID343","I was always happy in my life  he said",1,0,1
+"premID44","Fear had changed him to a shaken jelly. ","hypoID174","Fear made him stronger.",1,0,1
+"premID23","we laid in fields of gold ","hypoID92","we laid in fields of roses",2,1,1
+"premID119","The employee swallows her anger ","hypoID473","The employee does not show her anger and continues as usual",4,1,1
+"premID127","The house was a tomb. ","hypoID507","The house was dark.",3,1,1
+"premID5","Success is a bastard as it has many father; failure is an orphan with no takers. ","hypoID18","Everyone wants to take credit for success and no one wants to take responsibility for failure.",4,1,1
+"premID47","From its blue vase the rose of evening drops ","hypoID186","she dropped the rose in a blue vase",2,1,1
+"premID26","A golden sun shines high in the sky ","hypoID101","a black sun shines high in the sky",1,0,1
+"premID137","The old woman had an open heart ","hypoID546","The old woman was greedy",1,0,1
+"premID79","I was on a rollercoaster of emotions. ","hypoID313","I was experiencing a period of normality.",1,0,1
+"premID78","I was in a very stormy relationship ","hypoID311","In our relationship we had frequent fights",4,1,1
+"premID69","His declarations sparked a fire in the community ","hypoID274","His declarations caused the community to have intense debates",3,1,1
+"premID10","he was feeling down hurt and sad  ","hypoID37","he had a broken hand",1,0,1
+"premID7","David’s eyes were like daggers at Paul when Paul invited his new girlfriend to dance. ","hypoID28","When Paul invited his new girlfriend to dance  David looked at Paul angrily.",4,1,1
+"premID43","I demolished his argument ","hypoID170","I demolished his house without listening to his arguments",1,0,1
+"premID32","All the following sentences have nothing to do with this sentence ","hypoID125","He thinks these documents will be destroyed",1,0,1
+"premID114","He hated the stench of failure. ","hypoID456","He hated to see people who failed.",3,1,1
+"premID100","See the sun  far off  a shriveled orange in a sky gone black ","hypoID397","in a sky gone black the sun looks small and has an orange color",3,1,2
+"premID170","Jane knew these dicsussions were the seeds of a potential conflict","hypoID679","Jane was trying to start a conflict ",2,1,2
+"premID106","The animal in the middle of the sea was a mountain. ","hypoID424","The animal was huge in the middle of the sea.",4,1,2
+"premID131","The moment had arrived for killing the past and coming back to life ","hypoID521","it was the moment to forget everything had happened and focus on one's life again",4,1,2
+"premID149","The woman burst in a warm laughter ","hypoID595","The woman burst in a sad laughter",1,0,2
+"premID54","He is in such a hurry he does not run  he flies ","hypoID213","He is in such a hurry that he runs extremely fast",4,1,2
+"premID182","She knew she was burning in shame","hypoID727","She knew she was feeling calm ",2,1,2
+"premID166","With the crisis the bubble exploded. ","hypoID664","With the crisis everything stayed the same.",1,0,2
+"premID144","The show was characterised by dark humor and satire ","hypoID573","The show was characterised by black humor and satire",3,1,2
+"premID59","He pleaded for her forgiveness but Janet was a statue ","hypoID233","He implored her to forgive him but Janet remained indifferent to his pleads",4,1,2
+"premID126","The guy was a floating whale in the small swimming pool. ","hypoID503","The guy looked short and agile in the small swimming pool.",1,0,2
+"premID173","The warrior was a lion on the battlefield","hypoID690","The warrior fought with great strength and courage on the battlefield ",3,1,2
+"premID18","the crowd was a roaring river ","hypoID69","the crowd was huge and noisy",4,1,2
+"premID27","He had a full bag of memories to unload. ","hypoID106","He had a lot of memories to unload.",4,1,2
+"premID122","The future looks very promising  ","hypoID487","the future looks very bright",4,1,2
+"premID96","Now you can fade off to sleep.  ","hypoID382","Now you can go to sleep.",4,1,2
+"premID133","The new band was absolutely on fire ","hypoID529","the new band started a fire for no reason",1,0,2
+"premID99","People think the old man has a sour temper ","hypoID393","people think the old man has a outgoing temper",2,1,2
+"premID168","You will love the new train  it is a heavenly ride ","hypoID672","You will love the new train  it offers a ride you can really enjoy",4,1,2
+"premID125","The girl could still remember that sweet song ","hypoID497","that was a nice and fine song the girl could still remember",4,1,2
+"premID165","When it rains in Tokyo the city becomes a sea of umbrellas. ","hypoID659","When it rains in Tokyo the city becomes full of umbrellas.",4,1,2
+"premID98","Our whole life we swim against the waves towards the green light of happiness. ","hypoID392","Our whole life we try to reach happiness.",4,1,2
+"premID112","He felt a wave of anger ","hypoID446","he felt a mild discouragement",2,1,2
+"premID134","The new city was a maze for him. ","hypoID534","The new city was disorienting and confusing for him.",4,1,2
+"premID184","He kept us in the dark about his plans","hypoID733","He did not tell us anything about his plans ",4,1,2
+"premID65","He was worried they might spill everything about him ","hypoID258","He was worried they might spill water on him",1,0,2
+"premID74","I had already planted the idea in her mind. ","hypoID295","I had already planted the seed when an idea crossed my mind",2,1,2
+"premID35","As for Peleg he took it more like a philosopher. ","hypoID137","As for Peleg he responded calmly.",3,1,2
+"premID171","In the war on terror, American presidents must monitor not only the main terrorist organizations but their offshoots around the world as well","hypoID683","In the war on terror, American presidents must monitor not only the main terrorist organizations but their civil counterparts around the world as well ",2,1,2
+"premID105","The President brushed aside the accusations ","hypoID419","The president brushed his hair and talked about the accusations",2,1,2
+"premID130","The man still had heavy feelings about the situation ","hypoID520","Towards the situation the man still held negative feelings",3,1,2
+"premID48","He always had an interest for the fruit of knowledge ","hypoID190","He always had an interest for the origins of knowledge",2,1,2
+"premID16","my soul was a lampless sea and she was the tempest ","hypoID61","i was in despair and the thought of her made things worse",3,1,2
+"premID102","She was just a trophy to Ricardo ","hypoID406","Ricardo saw her just as someone to display",3,1,2
+"premID61","He shot down all my arguments ","hypoID242","He found flaws in all my arguments",3,1,2
+"premID121","The faculty meeting was a war ","hypoID484","The faculty meeting was very difficult and emotional",3,1,2
+"premID47","From its blue vase the rose of evening drops ","hypoID187","the sunset gives clouds a rose nuance in the blue of the sky",3,1,2
+"premID109","The captain was a tall and noble statue. ","hypoID433","The captain was short noble and silent.",1,0,2
+"premID30","After working two years for the company she was burned out ","hypoID119","After working two years for the company she was into rock and roll",1,0,2
+"premID51","He felt a dark sexual desire ","hypoID201","He felt a clear sexual desire",2,1,2
+"premID21","You were dying to believe in what you heard ","hypoID83","You really wanted to believe in what you heard",4,1,2
+"premID163","We still ignore how the seed of life was planted on our planet ","hypoID652","We still ignore how water was formed on our planet",2,1,2
+"premID111","The children were roses beautiful and forlorn ","hypoID442","The children were lively and loud",2,1,2
+"premID160","Time flies ","hypoID639","time passes very fast",4,1,2
+"premID162","We dug up some interesting facts ","hypoID646","We have invented some interesting facts",2,1,2
+"premID33","The faculty meeting was a real war ","hypoID132","The faculty meeting was very difficult and emotional",3,1,2
+"premID74","I had already planted the idea in her mind. ","hypoID296","I had already scared her about the idea.",1,0,2
+"premID41","Every person has bitter memories ","hypoID164","Every person has sad memories",3,1,2
+"premID3","She was the light of my life. ","hypoID11","She brought happiness and joy into my life.",4,1,2
+"premID55","He is the apple of my eye. ","hypoID219","I hold him dear-",4,1,2
+"premID30","After working two years for the company she was burned out ","hypoID117","After working two years for the company she was exhausted  stressed and depleted",4,1,2
+"premID70","His friend was very tall and he looked like a chess piece beside him.  ","hypoID280","His friend was very tall and he looked white beside him.",1,0,2
+"premID141","The roots of progress are in technological development. ","hypoID562","Technological development is the consequence of progress.",2,1,2
+"premID137","The old woman had an open heart ","hypoID548","The old woman was nice and generous",4,1,2
+"premID84","In the worst of times we looked at hope  shining in the dark ","hypoID335","In the worst of times we still had hope",4,1,2
+"premID109","The captain was a tall and noble statue. ","hypoID435","The captain was tall noble and silent.",3,1,2
+"premID105","The President brushed aside the accusations ","hypoID417","The President gave little credit to the accusations",4,1,2
+"premID106","The animal in the middle of the sea was a mountain. ","hypoID422","The animal in the middle of the sea was small.",1,0,2
+"premID171","In the war on terror, American presidents must monitor not only the main terrorist organizations but their offshoots around the world as well","hypoID684","In the war on terror, American presidents must monitor not only the main terrorist organizations but their declared enemies around the world as well ",2,1,2
+"premID164","When I looked at my friend after the storm he was a ghost. ","hypoID654","When I looked at my friend after the storm he was pale and scared.",4,1,2
+"premID93","My lawyer is a shark ","hypoID369","My lawyer is kind and romantic",1,0,2
+"premID27","He had a full bag of memories to unload. ","hypoID108","He had very few memories to tell.",2,1,2
+"premID12","it is midnight now : all masks fall ","hypoID45","by midnight you have to return all the masks",2,1,3
+"premID3","She was the light of my life. ","hypoID10","She brought depression and dissatisfaction into my life.",1,0,3
+"premID79","I was on a rollercoaster of emotions. ","hypoID316","I was on a rollercoaster which gives me strong emotions.",2,1,3
+"premID18","the crowd was a roaring river ","hypoID71","the crowd was liquid like a river",2,1,3
+"premID39","During the conflict the seeds of peace were planted. ","hypoID154","During the conflict the foundations of peace were visible.",3,1,3
+"premID1","She was ready to turn her hand and heart to anything that promised to yield safety.  ","hypoID2","She was ready to act and to look after anything that promised to yield safety.",3,1,3
+"premID109","The captain was a tall and noble statue. ","hypoID434","The captain was tall noble and never stopped moving.",1,0,3
+"premID66","Her joy was blinding ","hypoID261","Her joy was green",1,0,3
+"premID180","The faculty meeting was a nightmare","hypoID720","the faculty meeting was very bad ",4,1,3
+"premID102","She was just a trophy to Ricardo ","hypoID408","She was very loved by Ricardo",2,1,3
+"premID113","He felt a wave of excitement ","hypoID451","he felt an intense excitement overcoming him",4,1,3
+"premID149","The woman burst in a warm laughter ","hypoID596","The woman started laughing in a nice and pleasant way",4,1,3
+"premID49","He attacked every weak point in my argument ","hypoID194","He ignored all the weak points in my argument",1,0,3
+"premID79","I was on a rollercoaster of emotions. ","hypoID315","I was in a strange period of my life.",3,1,3
+"premID88","The faculty meeting was a circus ","hypoID350","The faculty meeting was embarassing",2,1,3
+"premID110","You were hanging yourself on someone else 's words ","hypoID440","You were absolutely willing to listen to someone else",3,1,3
+"premID46","For the end of the year  I was burned and broken ","hypoID182","For the end of the year  I was happy and wealthy",1,0,3
+"premID30","After working two years for the company she was burned out ","hypoID118","After working two years for the company she was full of energy",1,0,3
+"premID64","He was so happy he felt his heart was exploding ","hypoID254","he was so happy he felt he should explode something",1,0,3
+"premID37","Calm down - there's no need to get all steamed up about it. ","hypoID148","Calm down - there's no need to steam this up.",2,1,3
+"premID46","For the end of the year  I was burned and broken ","hypoID181","For the end of the year  I burned my car and broke out",1,0,3
+"premID123","The faculty meeting was a comedy show ","hypoID490","The faculty meeting was embarassing",2,1,3
+"premID163","We still ignore how the seed of life was planted on our planet ","hypoID650","We still ignore how life happened",3,1,3
+"premID25","A break up can leave you with a broken heart. ","hypoID100","A break up can make you feel like you are having a stroke.",2,1,3
+"premID52","He felt a sudden red pain through his leg ","hypoID208","He felt running through his leg a sudden pain and saw red",2,1,3
+"premID7","David’s eyes were like daggers at Paul when Paul invited his new girlfriend to dance. ","hypoID27","David looked at Paul very angrily when Paul invited his new girlfriend to dance.",4,1,3
+"premID91","I embarked on life thirty years ago ","hypoID363","I was born thirty years ago",3,1,3
+"premID166","With the crisis the bubble exploded. ","hypoID662","With the crisi  the situation changed dramatically.",4,1,3
+"premID97","O Moon your light is failing and now you are just a cold bow ","hypoID385","Moon  your light is stronger now and I have a bow",1,0,3
+"premID171","In the war on terror, American presidents must monitor not only the main terrorist organizations but their offshoots around the world as well","hypoID681","In the war on terror, American presidents must monitor not only the main terrorist organizations but any group developing from them as well ",4,1,3
+"premID32","All the following sentences have nothing to do with this sentence ","hypoID126","He thinks these documents will be disclosed soon or late",1,0,3
+"premID161","War was a nightmare. ","hypoID642","War felt good.",1,0,3
+"premID78","I was in a very stormy relationship ","hypoID309","I was in a very complicated relationship",3,1,3
+"premID49","He attacked every weak point in my argument ","hypoID196","He was able to find and show every weak point in my argument",4,1,3
+"premID102","She was just a trophy to Ricardo ","hypoID407","She was just a sign of accomplishment to Ricardo",4,1,3
+"premID179","Her eyes were fireflies","hypoID715","Her eyes were dark and deep ",2,1,3
+"premID163","We still ignore how the seed of life was planted on our planet ","hypoID651","We still ignore how life was started on our planet",4,1,3
+"premID164","When I looked at my friend after the storm he was a ghost. ","hypoID655","When I looked at my friend after the storm he was pale and silent.",4,1,3
+"premID20","the wheels of justice turn slowly ","hypoID79","justice prevails in very little time",2,1,3
+"premID112","He felt a wave of anger ","hypoID447","he felt an intense anger overcoming him",4,1,3
+"premID148","The wind howled; the waves dashed their bucklers together - we were in the jaws of death  ","hypoID590","The wind roared; the waves collided - we were in great danger.",4,1,3
+"premID69","His declarations sparked a fire in the community ","hypoID275","His declarations left the community unimpressed",2,1,3
+"premID139","The republican convention was a horror show ","hypoID555","The republican convention was very distressing",4,1,3
+"premID83","If you are drowning in a sea of minor problems you cannot focus on what matters ","hypoID329","If you drown in the sea  then you have a problem",2,1,3
+"premID99","People think the old man has a sour temper ","hypoID394","people think the old man has a peaceful temper",1,0,3
+"premID137","The old woman had an open heart ","hypoID547","The old woman was introvert",1,0,3
+"premID47","From its blue vase the rose of evening drops ","hypoID185","in the blue sky the sunset is rose",3,1,3
+"premID157","They were stirring excitement ","hypoID628","They were suffocating excitement",1,0,3
+"premID57","He lived in a state of deep terror ","hypoID227","He lived in a state of mild discomfort",2,1,3
+"premID143","The seeds of change were planted in 1943 ","hypoID571","The hopes for a change vanished in 1943",1,0,3
+"premID176","He thinks these documents will leak out soon or late","hypoID701","He thinks these documents will become known soon or late ",4,1,3
+"premID43","I demolished his argument ","hypoID171","I demonstrated that all his arguments were inconsistent",4,1,3
+"premID85","She was lost in her thoughts and memories ","hypoID337","She payed little attentions to her memories and thoughts",1,0,3
+"premID11","her smile was a blinding sun ","hypoID44","her smile was wonderful and fulfilling to see",4,1,3
+"premID109","The captain was a tall and noble statue. ","hypoID436","The captain was tall noble and still.",3,1,3
+"premID170","Jane knew these dicsussions were the seeds of a potential conflict","hypoID680","Jane knew these discussions were the end of a potential conflict ",2,1,3
+"premID77","I was home watching the days slip by from my window ","hypoID307","I was home reparing all the windows",1,0,3
+"premID146","The soldiers were devils. ","hypoID582","The soldiers were dangerous and aggressive.",4,1,3
+"premID28","Adam did not understand the root of the crisis  ","hypoID109","Adam did not manage to understand what the causes of the crisis were",4,1,3
+"premID118","The darted harpoon was lightning in the sea. ","hypoID471","The harpoon was darted in the sea.",2,1,3
+"premID155","There were dark corners in his past things he didn't like to remember. ","hypoID617","There were excellent achievements in his past things he didn't like to remember.",1,0,3
+"premID103","I was alone in a sea of unknown faces ","hypoID411","I was alone in an exclusive club of unknown faces",2,1,3
+"premID150","The woman had a blue feeling ","hypoID600","What the woman was feeling was a kind of melancholy",4,1,4
+"premID177","The weeks crawled by until we could meet again","hypoID705","The weeks seemed to pass slowly until we could meet again ",4,1,4
+"premID82","You were hanging yourself on someone else 's words ","hypoID327","You were oblivious of what someone else had said",2,1,4
+"premID117","You'd better keep away from Bill today because he's in a black mood. ","hypoID466","You'd better keep away from Bill today because he's angry and sad.",4,1,4
+"premID178","Words are weapons","hypoID711","Words are linguistic abstractions ",2,1,4
+"premID94","She said that she could smell infidelity from a mile. ","hypoID376","She said that something smelled very bad.",2,1,4
+"premID114","He hated the stench of failure. ","hypoID453","He hated a specific stench.",2,1,4
+"premID56","He knew how to write sweet words ","hypoID221","He knew how to write Japanese words",1,0,4
+"premID181","When I met the boss he seemed bitter about the whole story","hypoID723","When I met the boss he seemed happy about the whole story ",2,1,4
+"premID127","The house was a tomb. ","hypoID505","The house was big.",2,1,4
+"premID56","He knew how to write sweet words ","hypoID222","He knew how to write agreeable words",3,1,4
+"premID103","I was alone in a sea of unknown faces ","hypoID409","I was alone in a circle of unknown faces",3,1,4
+"premID116","She had a bright idea ","hypoID462","She had a bad idea",1,0,4
+"premID122","The future looks very promising  ","hypoID486","the future is a rocky mountain",1,0,4
+"premID95","Nobody cares about the roots of modern civilization. ","hypoID380","Nobody tries to understand what produced modern civilization.",4,1,4
+"premID124","The girl broke into the conversation ","hypoID495","The girl remained silent during the conversation",1,0,4
+"premID142","The roots of the war were in the economical crisis ","hypoID568","The reasons that carried to the war were in the economical crisis",3,1,4
+"premID178","Words are weapons","hypoID709","Words are powerful and can have significant impact ",4,1,4
+"premID101","She arrived at the grocery store with an army of children ","hypoID403","She arrived at the grocery store with few children",1,0,4
+"premID147","The war devoured so many lives. ","hypoID588","The war scared so many people.",1,0,4
+"premID133","The new band was absolutely on fire ","hypoID531","the new band was escaping a fire",1,0,4
+"premID157","They were stirring excitement ","hypoID626","They were drinking excitement",1,0,4
+"premID3","She was the light of my life. ","hypoID12","She had a light and a life.",2,1,4
+"premID145","The sky was on fire and he felt pain pouring down. ","hypoID579","The sky was red and he felt an intense pain.",3,1,4
+"premID181","When I met the boss he seemed bitter about the whole story","hypoID721","When I met the boss he seemed sad about the whole story ",4,1,4
+"premID152","Your words surround me but I will not surrender ","hypoID605","What you say is challenging but I keep my point",3,1,4
+"premID159","Those galaxies were jellyfishes in the abyss of space. ","hypoID633","Those galaxies had an alien look in outer space.",2,1,4
+"premID135","The news inflamed your temper. ","hypoID540","The news was on fire and in flames.",1,0,4
+"premID147","The war devoured so many lives. ","hypoID586","The war killed so many people.",4,1,4
+"premID177","The weeks crawled by until we could meet again","hypoID707","the weeks went as usual until we could meet again ",2,1,4
+"premID71","His purplish head was a skull under the moon. ","hypoID284","His purplish head was illuminated by the moon.",3,1,4
+"premID12","it is midnight now : all masks fall ","hypoID47","it is a dangerous moment : there are no excuses",3,1,4
+"premID71","His purplish head was a skull under the moon. ","hypoID283","His purplish head was black and hairy under the moon.",1,0,4
+"premID13","an ancient anger exploded in his heart ","hypoID50","he was overwhelmed by an anger he had suppressed for a long time",4,1,4
+"premID98","Our whole life we swim against the waves towards the green light of happiness. ","hypoID391","Our whole life we try to reach happiness even if it is difficult.",4,1,4
+"premID60","He said the leaders will have to deal with an ocean of resentment ","hypoID239","He said the leaders will have to sail the ocean as soon as possible",1,0,4
+"premID184","He kept us in the dark about his plans","hypoID735","He communicated all his plans to us ",2,1,4
+"premID88","The faculty meeting was a circus ","hypoID349","At the faculty meeting we watched a comedy show",1,0,4
+"premID34","And now they were leaking all kinds of documents ","hypoID134","And now they were burning all kinds of documents",1,0,4
+"premID26","A golden sun shines high in the sky ","hypoID104","a yellow sun shines high in the sky",3,1,4
+"premID54","He is in such a hurry he does not run  he flies ","hypoID214","He is in such a hurry that he walks",2,1,4
+"premID162","We dug up some interesting facts ","hypoID645","We have concealed some interesting facts",1,0,4
+"premID117","You'd better keep away from Bill today because he's in a black mood. ","hypoID468","You'd better keep away from Bill today because he's in a black car.",1,0,4
+"premID9","The great gold apples of light hang from the street’s long bough dripping their light on the faces that drift below on the faces that drift and blow ","hypoID35","the street lamps hang from the streets and cast their light on people 's faces",4,1,4
+"premID167","You disagree ? Ok  shoot ","hypoID665","If you disagree  then speak your mind",3,1,4
+"premID52","He felt a sudden red pain through his leg ","hypoID206","He felt a sudden intense pain through his leg",4,1,4
+"premID167","You disagree ? Ok  shoot ","hypoID668","You disagree ? Ok  tell why",4,1,4
+"premID16","my soul was a lampless sea and she was the tempest ","hypoID63","my mood was great and i was in love with her",1,0,4
+"premID36","By that time my friend was broken so he had to sell his house ","hypoID141","By that time my friend had a broken bone and he had to sell his house",1,0,4
+"premID50","He drowned in a sea of grief. ","hypoID200","He was happy and jolly.",1,0,4
+"premID151","Their honey moon was a dream ","hypoID604","They highly enjoyed their honey moon",4,1,4
+"premID140","The rich man had a cold heart ","hypoID560","The rich man’s personality was characterised by selfishness",3,1,4
+"premID65","He was worried they might spill everything about him ","hypoID259","He was worried they might tell everything about him",4,1,4
+"premID184","He kept us in the dark about his plans","hypoID736","He kept us in a dark room ",2,1,4
+"premID23","we laid in fields of gold ","hypoID91","we laid in fields of green grass",2,1,4
+"premID100","See the sun  far off  a shriveled orange in a sky gone black ","hypoID398","see the sun  far off  it looks large and white in a sky gone black",2,1,4
+"premID56","He knew how to write sweet words ","hypoID223","He knew how to write down something nice and pleasant",4,1,4
+"premID60","He said the leaders will have to deal with an ocean of resentment ","hypoID237","He said the leaders will have to deal with a large amount of resentment",4,1,4
+"premID152","Your words surround me but I will not surrender ","hypoID607","You speak profusely and in convincing ways but I do not listen to you",4,1,4
+"premID139","The republican convention was a horror show ","hypoID553","Republican candidates during the convention were terrible people",3,1,4
+"premID69","His declarations sparked a fire in the community ","hypoID273","His declarations caused distress in the community",3,1,4
+"premID75","I have to kill the program ","hypoID300","I have to terminate the program",4,1,4
+"premID145","The sky was on fire and he felt pain pouring down. ","hypoID577","It was sunset and he felt an intense pain.",3,1,5
+"premID111","The children were roses beautiful and forlorn ","hypoID441","The children appeared beautiful and fragile",4,1,5
+"premID160","Time flies ","hypoID637","it is time for flies",2,1,5
+"premID120","The faculty meeting was a tragedy ","hypoID477","The faculty meeting was highly aggressive",2,1,5
+"premID94","She said that she could smell infidelity from a mile. ","hypoID375","She said that she clearly saw that the person was cheating.",3,1,5
+"premID172","Her pen was a knife","hypoID687","She wrote cruel words ",3,1,5
+"premID92","My friend said the project was a nightmare ","hypoID365","My friend said the project was very distressing",4,1,5
+"premID35","As for Peleg he took it more like a philosopher. ","hypoID138","As for Peleg he responded in a thoughtful way.",4,1,5
+"premID16","my soul was a lampless sea and she was the tempest ","hypoID64","my soul was in despair and she was the cause",4,1,5
+"premID21","You were dying to believe in what you heard ","hypoID84","You thought what you heard was funny",2,1,5
+"premID135","The news inflamed your temper. ","hypoID539","The news was about a burning factory.",1,0,5
+"premID28","Adam did not understand the root of the crisis  ","hypoID111","Adam did not understand the solution to the crisis",2,1,5
+"premID34","And now they were leaking all kinds of documents ","hypoID135","And now they were disclosing all kinds of documents",4,1,5
+"premID41","Every person has bitter memories ","hypoID163","Every person has joyful memories",1,0,5
+"premID123","The faculty meeting was a comedy show ","hypoID491","The faculty meeting was ridiculous",4,1,5
+"premID183","The faculty meeting was an easy breeze","hypoID731","The faculty meeting was very easy and relaxing ",4,1,5
+"premID18","the crowd was a roaring river ","hypoID72","the crowd was small and silent",1,0,5
+"premID55","He is the apple of my eye. ","hypoID220","I love him.",4,1,5
+"premID90","Mark ’s comments are an acid bath for my nerves. ","hypoID359","Mark ’s comments are irritating.",4,1,5
+"premID78","I was in a very stormy relationship ","hypoID310","I was in a very quiet relationship",1,0,5
+"premID9","The great gold apples of light hang from the street’s long bough dripping their light on the faces that drift below on the faces that drift and blow ","hypoID34","people are passing by and lamps hanging along the streets cast light on their faces",4,1,5
+"premID150","The woman had a blue feeling ","hypoID599","The woman had a yellow feeling",2,1,5
+"premID87","It is sad to observe the fruits of ignorance. ","hypoID345","If is sad to observe the consequences of ignorance.",4,1,5
+"premID16","my soul was a lampless sea and she was the tempest ","hypoID62","in a lampless sea a tempest is dangerous",2,1,5
+"premID96","Now you can fade off to sleep.  ","hypoID381","Now you can disappear.",2,1,5
+"premID141","The roots of progress are in technological development. ","hypoID561","Technological development is the cause of progress.",3,1,5
+"premID46","For the end of the year  I was burned and broken ","hypoID183","For the end of the year  I was highly stressed and poor",3,1,5
+"premID47","From its blue vase the rose of evening drops ","hypoID188","the sunset makes green the clouds in the black sky",1,0,5
+"premID160","Time flies ","hypoID640","time seems to pass very quickly",4,1,5
+"premID73","I asked for your help and you disappeared from radar ","hypoID290","I asked for your help and you kindly helped me",1,0,5
+"premID5","Success is a bastard as it has many father; failure is an orphan with no takers. ","hypoID17","Everyone wants to take credit for success and everyone wants to take responsibility for a failure.",2,1,5
+"premID104","The Leviathan in the ocean is a moving country. ","hypoID415","The Leviathan in the ocean is large.",4,1,5
+"premID125","The girl could still remember that sweet song ","hypoID500","the girl could still remember that song about sugar",2,1,5
+"premID102","She was just a trophy to Ricardo ","hypoID405","Ricardo loved her truly",1,0,5
+"premID151","Their honey moon was a dream ","hypoID602","Their honey moon was a strange experience",2,1,5
+"premID124","The girl broke into the conversation ","hypoID496","The girl said something interrupting the conversation",4,1,5
+"premID77","I was home watching the days slip by from my window ","hypoID306","I was home doing nothing while days passed",4,1,5
+"premID29","After letting off his rage he sat down like a lamb. ","hypoID115","After letting off his rage he sat down in an obedient way.",3,1,5
+"premID157","They were stirring excitement ","hypoID627","They were provoking excitement",4,1,5
+"premID5","Success is a bastard as it has many father; failure is an orphan with no takers. ","hypoID20","The bastard had success and the orphan met with failure.",2,1,5
+"premID6","While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.  ","hypoID24","While his one live leg made lively echoes along the deck every stroke of his dead limb was ghastly.",3,1,5
+"premID169","She said he was very sweet and he smiled ","hypoID676","She said she liked him and he smiled",3,1,5
+"premID70","His friend was very tall and he looked like a chess piece beside him.  ","hypoID277","His friend was very tall and he looked fat beside him.",1,0,5
+"premID134","The new city was a maze for him. ","hypoID536","The new city was simple and clear for him.",1,0,5
+"premID1","She was ready to turn her hand and heart to anything that promised to yield safety.  ","hypoID1","She was ready to act and to do anything that seemed to yield safety.",4,1,5
+"premID66","Her joy was blinding ","hypoID262","Her joy was mild",2,1,5
+"premID76","I never won an argument with him ","hypoID304","It seemed impossible to convince him - in any argument",3,1,5
+"premID50","He drowned in a sea of grief. ","hypoID197","He was angry and depressed.",3,1,5
+"premID145","The sky was on fire and he felt pain pouring down. ","hypoID578","The sky was green and he felt an intense pain.",1,0,5
+"premID33","The faculty meeting was a real war ","hypoID131","The faculty meeting was ridiculous",3,1,5
+"premID94","She said that she could smell infidelity from a mile. ","hypoID373","She said that everything was fine.",1,0,5
+"premID21","You were dying to believe in what you heard ","hypoID81","When you were dying you did not believe in what you heard",2,1,5
+"premID182","She knew she was burning in shame","hypoID728","She knew she was feeling a very mild shame ",2,1,5
+"premID15","my love is a summer day ","hypoID60","my feeling of love is very pleasant  like a summer day",4,1,5
+"premID12","it is midnight now : all masks fall ","hypoID48","it is afternoon and we are having a party",1,0,5
+"premID168","You will love the new train  it is a heavenly ride ","hypoID671","You will love the new train  it is a very boring ride",1,0,5
+"premID74","I had already planted the idea in her mind. ","hypoID294","I had already persuaded her of the idea.",3,1,5
+"premID176","He thinks these documents will leak out soon or late","hypoID702","He thinks these documents will be disclosed soon or late ",4,1,5
+"premID125","The girl could still remember that sweet song ","hypoID499","the girl could still remember that scary song",1,0,5
+"premID183","The faculty meeting was an easy breeze","hypoID730","The faculty meeting was calm ",3,1,5
+"premID24","we were sinking in an ocean of grass ","hypoID94","we were in a very small prairie",2,1,5
+"premID173","The warrior was a lion on the battlefield","hypoID692","The warrior was very smart on the battlefield ",2,1,5
+"premID10","he was feeling down hurt and sad  ","hypoID38","he had a broken heart",3,1,6
+"premID165","When it rains in Tokyo the city becomes a sea of umbrellas. ","hypoID660","When it rains in Tokyo you won't find umbrellas in it.",1,0,6
+"premID78","I was in a very stormy relationship ","hypoID312","Our relationship was in a routine",1,0,6
+"premID84","In the worst of times we looked at hope  shining in the dark ","hypoID333","Even in the most difficult times we were able to hope and look at the future",3,1,6
+"premID36","By that time my friend was broken so he had to sell his house ","hypoID143","By that time my friend was in a bad financial situation and he had to sell his house",4,1,6
+"premID67","Here comes the fool with his foggy brain ","hypoID265","Here comes the fool with his brilliant mind",1,0,6
+"premID100","See the sun  far off  a shriveled orange in a sky gone black ","hypoID400","watch the sun in the sky and eat a shriveled orange",1,0,6
+"premID65","He was worried they might spill everything about him ","hypoID260","One thing that worried him was that they might tell everything about him",4,1,6
+"premID2","She was sure she was living this fantasy romance and kept deluding herself ","hypoID6","she wanted to buy a fantasy romance and kept deluding us",1,0,6
+"premID107","The animal shakes its tail in the air like a whip. ","hypoID428","The animal shakes its tail in the air and it resounds in the distance.",3,1,6
+"premID14","life is just a dream in the night ","hypoID53","in my life i always dreamed during the night",1,0,6
+"premID31","Ahab was a pyramid but I kept kicking at him.  ","hypoID124","Ahab was unmovable but I kept trying to change his mind.",3,1,6
+"premID160","Time flies ","hypoID638","time is slow",1,0,6
+"premID127","The house was a tomb. ","hypoID506","The house was bright.",1,0,6
+"premID149","The woman burst in a warm laughter ","hypoID594","The woman burst in a nice and pleasant laughter",4,1,6
+"premID113","He felt a wave of excitement ","hypoID452","he felt excited",3,1,6
+"premID146","The soldiers were devils. ","hypoID583","The soldiers were excited and lively.",1,0,6
+"premID70","His friend was very tall and he looked like a chess piece beside him.  ","hypoID278","His friend was very tall and he looked short beside him.",4,1,6
+"premID161","War was a nightmare. ","hypoID643","War felt unreal.",3,1,6
+"premID151","Their honey moon was a dream ","hypoID603","Their honey moon was very pleasant",4,1,6
+"premID119","The employee swallows her anger ","hypoID475","The employee speaks her anger",2,1,6
+"premID20","the wheels of justice turn slowly ","hypoID77","it can take a long time to see justice prevail on injustice",4,1,6
+"premID114","He hated the stench of failure. ","hypoID454","He hated failure.",3,1,6
+"premID67","Here comes the fool with his foggy brain ","hypoID267","Here comes the fool with his confused mind",4,1,6
+"premID146","The soldiers were devils. ","hypoID584","The soldiers were peaceful and reassuring.",1,0,6
+"premID116","She had a bright idea ","hypoID463","She had a complicated idea",2,1,6
+"premID95","Nobody cares about the roots of modern civilization. ","hypoID379","Nobody cares about the origins of modern civilization.",4,1,6
+"premID155","There were dark corners in his past things he didn't like to remember. ","hypoID619","There were obscure things in his past things he didn't like to remember.",3,1,6
+"premID121","The faculty meeting was a war ","hypoID481","At the faculty meeting we talked about war",2,1,6
+"premID155","There were dark corners in his past things he didn't like to remember. ","hypoID620","There were reassuring elements in his past things he didn't like to remember.",2,1,6
+"premID187","You have to head straight into your fears to win them","hypoID741","you have to deal with the very things that scare you to overcome your fears ",4,1,6
+"premID81","I've reached my boiling point. ","hypoID322","I cannot stand this situation anymore.",4,1,6
+"premID50","He drowned in a sea of grief. ","hypoID198","He was drowning in the sea.",2,1,6
+"premID67","Here comes the fool with his foggy brain ","hypoID268","Here comes the fool with his damaged mind",3,1,6
+"premID175","Silence was crushing . I knew the moment had arrived","hypoID699","Silence was short : I knew the moment had arrived ",2,1,6
+"premID37","Calm down - there's no need to get all steamed up about it. ","hypoID147","Calm down - there's no need to get excited about it.",2,1,6
+"premID14","life is just a dream in the night ","hypoID54","life is a serious matter",1,0,6
+"premID73","I asked for your help and you disappeared from radar ","hypoID292","I asked your help and it was impossible to find you",4,1,6
+"premID49","He attacked every weak point in my argument ","hypoID193","He helped me improve my argument’s weak points",1,0,6
+"premID153","She is fishing in troubled waters. ","hypoID611","She is looking for something that is easy to obtain.",2,1,6
+"premID48","He always had an interest for the fruit of knowledge ","hypoID191","He always had an interest for the pineapple of knowledge",1,0,6
+"premID134","The new city was a maze for him. ","hypoID535","The new city was hard to navigate for him.",4,1,6
+"premID142","The roots of the war were in the economical crisis ","hypoID566","The effect of the war was the economical crisis",2,1,6
+"premID125","The girl could still remember that sweet song ","hypoID498","the girl could still remember that nice song",4,1,6
+"premID129","The iron in the tail of the animal was a restless needle. ","hypoID513","The iron in the tail of the animal was long and deep.",3,1,6
+"premID63","He was living in his dream world  shutting his eyes in front of reality ","hypoID249","He did not want to acknowledge reality and kept denying it",4,1,6
+"premID107","The animal shakes its tail in the air like a whip. ","hypoID426","The animal shakes its tail in the air and it is short and thick.",2,1,6
+"premID44","Fear had changed him to a shaken jelly. ","hypoID175","He was afraid of shaking jelly.",1,0,6
+"premID88","The faculty meeting was a circus ","hypoID351","The faculty meeting was ridiculous",4,1,6
+"premID17","she cut him down with her words ","hypoID65","she cheered him up with her words",1,0,6
+"premID126","The guy was a floating whale in the small swimming pool. ","hypoID504","The guy was eating whale meat in the small swimming pool.",1,0,6
+"premID40","Each blade of grass was a bayonet pointed firmly at our bare feet ","hypoID157","Each blade of grass was a was firmly stinging our bare feet",3,1,6
+"premID30","After working two years for the company she was burned out ","hypoID120","After working two years for the company she was without energies and tired",3,1,6
+"premID75","I have to kill the program ","hypoID297","I have to forcefully interrupt the program",3,1,6
+"premID69","His declarations sparked a fire in the community ","hypoID276","The community generally ignored his declarations",1,0,6
+"premID128","You were the golden boy back then ","hypoID510","you were the dangerous boy back then",1,0,6
+"premID23","we laid in fields of gold ","hypoID90","we laid in fields of corn",3,1,6
+"premID56","He knew how to write sweet words ","hypoID224","He knew how to write menacing words",1,0,6
+"premID101","She arrived at the grocery store with an army of children ","hypoID401","Followed by a mass of children  she arrived at the store",3,1,6
+"premID15","my love is a summer day ","hypoID58","my feeling of love is hot and falls in july",2,1,6
+"premID97","O Moon your light is failing and now you are just a cold bow ","hypoID386","O Moon your light is getting dimmer and now you look like a bow",3,1,6
+"premID61","He shot down all my arguments ","hypoID241","He approved my arguments",1,0,6
+"premID34","And now they were leaking all kinds of documents ","hypoID136","And now they were hiding away all kinds of documents",1,0,7
+"premID118","The darted harpoon was lightning in the sea. ","hypoID469","The darted harpoon was quick and shiny in the sea.",4,1,7
+"premID187","You have to head straight into your fears to win them","hypoID744","you have to head straight into your window to win the first price ",2,1,7
+"premID72","How can we build a knowledge economy if research is handcuffed? (Barque and Chaumartin 2009) ","hypoID288","It is not possible to build a knowledge economy if researchers are all handcuffed .",3,1,7
+"premID33","The faculty meeting was a real war ","hypoID130","The faculty meeting was highly aggressive",4,1,7
+"premID25","A break up can leave you with a broken heart. ","hypoID98","A break up can make you feel good and happy.",1,0,7
+"premID95","Nobody cares about the roots of modern civilization. ","hypoID378","Nobody cares about the consequences of modern civilization.",2,1,7
+"premID26","A golden sun shines high in the sky ","hypoID102","a very bright sun shines high in the sky",4,1,7
+"premID59","He pleaded for her forgiveness but Janet was a statue ","hypoID236","He pleaded for her forgiveness but Janet did not listen to him",3,1,7
+"premID158","This is a trap sentence ","hypoID632","You should not give this sentence a four",1,0,7
+"premID3","She was the light of my life. ","hypoID9","She brought a melancholic feeling into my life.",1,0,7
+"premID129","The iron in the tail of the animal was a restless needle. ","hypoID515","The iron in the tail of the animal was strange.",1,0,7
+"premID124","The girl broke into the conversation ","hypoID493","The girl abruptly partook the conversation",3,1,7
+"premID52","He felt a sudden red pain through his leg ","hypoID207","He felt a sudden intense pleasure through his leg",2,1,7
+"premID166","With the crisis the bubble exploded. ","hypoID663","With the crisis a bomb exploded.",2,1,7
+"premID35","As for Peleg he took it more like a philosopher. ","hypoID139","As for Peleg himself he responded angrily.",1,0,7
+"premID136","The old tenant gave a bittersweet speech ","hypoID544","The old tenant gave a sad speech",2,1,7
+"premID151","Their honey moon was a dream ","hypoID601","Their honey moon was a nightmare",1,0,7
+"premID4","Faith feeds among the tombs and even from these dead doubts she gathers her most vital hope. ","hypoID16","Someone with faith can maintain hope even among great doubts.",3,1,7
+"premID139","The republican convention was a horror show ","hypoID554","The republican convention was a joy to follow",1,0,7
+"premID166","With the crisis the bubble exploded. ","hypoID661","The situation changed dramatically with the crisis.",4,1,7
+"premID41","Every person has bitter memories ","hypoID162","Every person has depressing or disturbing memories",3,1,7
+"premID164","When I looked at my friend after the storm he was a ghost. ","hypoID656","When I looked at my friend after the storm he was quiet.",2,1,7
+"premID26","A golden sun shines high in the sky ","hypoID103","a very expensive sun shines high in the sky",2,1,7
+"premID39","During the conflict the seeds of peace were planted. ","hypoID153","During the conflict the first elements of a peace accord appeared.",4,1,7
+"premID55","He is the apple of my eye. ","hypoID218","I hate him.",1,0,7
+"premID82","You were hanging yourself on someone else 's words ","hypoID325","You were hanging yourself because of what someone else said",2,1,7
+"premID91","I embarked on life thirty years ago ","hypoID361","I embarked on a ship thirty years ago",2,1,7
+"premID35","As for Peleg he took it more like a philosopher. ","hypoID140","As for Peleg himself he was sad and he cried.",1,0,7
+"premID82","You were hanging yourself on someone else 's words ","hypoID326","You were happy with what someone else had said",2,1,7
+"premID99","People think the old man has a sour temper ","hypoID396","the old man has an unsociable temper or that is what people think",3,1,7
+"premID62","He was in a black mood. ","hypoID245","He was angry and depressed.",3,1,7
+"premID142","The roots of the war were in the economical crisis ","hypoID565","The economical crisis was the cause of the war",4,1,7
+"premID186","I think we should think about the roots of the problem ","hypoID739","I think we should try to understand what caused the problem ",3,1,7
+"premID153","She is fishing in troubled waters. ","hypoID610","She is looking for something that is difficult to obtain.",3,1,7
+"premID120","The faculty meeting was a tragedy ","hypoID478","The faculty meeting was ridiculous",3,1,7
+"premID1","She was ready to turn her hand and heart to anything that promised to yield safety.  ","hypoID3","She was ready to cut her hand and her heart for anything that promised to yield safety.",2,1,7
+"premID137","The old woman had an open heart ","hypoID545","The old woman was generous",3,1,7
+"premID54","He is in such a hurry he does not run  he flies ","hypoID216","he is in a real hurry so he goes by car",1,0,7
+"premID184","He kept us in the dark about his plans","hypoID734","He did not disclose his plans to us ",4,1,7
+"premID58","He looked neither one way nor the other way but sat like a carved image. ","hypoID231","He looked neither one way nor the other way but sat with scarcely a sign of active life.",3,1,7
+"premID20","the wheels of justice turn slowly ","hypoID80","the wheels of a car turn slowly",2,1,7
+"premID24","we were sinking in an ocean of grass ","hypoID93","we were completely surrounded by a large prairie",4,1,7
+"premID75","I have to kill the program ","hypoID298","I have to kill who wrote the program",1,0,7
+"premID181","When I met the boss he seemed bitter about the whole story","hypoID722","When I met him , the boss seemed quite sad about the fact ",3,1,7
+"premID93","My lawyer is a shark ","hypoID370","My lawyer is mean and greedy",3,1,7
+"premID14","life is just a dream in the night ","hypoID55","life is just a delusion  something illusory",4,1,7
+"premID121","The faculty meeting was a war ","hypoID483","The faculty meeting was ridiculous",2,1,7
+"premID43","I demolished his argument ","hypoID169","He had different arguments . I proceeded to show they were all flawed",3,1,7
+"premID156","They were burning with desire ","hypoID621","They desired to burn a house",1,0,7
+"premID63","He was living in his dream world  shutting his eyes in front of reality ","hypoID250","He had a powerful imagination and used it to ignore the real world",3,1,7
+"premID19","the flowers danced in the wind ","hypoID73","the flowers moved in all directions under the wind",4,1,7
+"premID40","Each blade of grass was a bayonet pointed firmly at our bare feet ","hypoID159","Grass was very soft and we could walk bare feet",1,0,7
+"premID110","You were hanging yourself on someone else 's words ","hypoID437","You believed blinding what someone else said",3,1,7
+"premID136","The old tenant gave a bittersweet speech ","hypoID541","The old tenant expressed mixed feelings in his speech",4,1,7
+"premID80","I was staring straight into the shining sun ","hypoID319","I was facing something wonderful and dangerous",3,1,7
+"premID155","There were dark corners in his past things he didn't like to remember. ","hypoID618","There were negative elements in his past things he didn't like to remember.",4,1,7
+"premID65","He was worried they might spill everything about him ","hypoID257","He was worried they might give information about his wife",2,1,7
+"premID128","You were the golden boy back then ","hypoID512","you were the loved one everyone's favorite back then",4,1,7
+"premID104","The Leviathan in the ocean is a moving country. ","hypoID413","The Leviathan in the ocean is green.",1,0,7
+"premID31","Ahab was a pyramid but I kept kicking at him.  ","hypoID123","Ahab was tall and ancient and I kept trying to move him.",2,1,7
+"premID7","David’s eyes were like daggers at Paul when Paul invited his new girlfriend to dance. ","hypoID26","David looked at Paul in a sad way when Paul invited his new girlfriend to dance.",2,1,7
+"premID172","Her pen was a knife","hypoID688","What she wrote was boring ",2,1,8
+"premID113","He felt a wave of excitement ","hypoID449","He felt an intense excitement",4,1,8
+"premID62","He was in a black mood. ","hypoID246","He was happy and jolly",1,0,8
+"premID61","He shot down all my arguments ","hypoID244","He was convinced by my arguments",1,0,8
+"premID25","A break up can leave you with a broken heart. ","hypoID99","A break up can make you feel hurt and sad.",4,1,8
+"premID146","The soldiers were devils. ","hypoID581","The soldiers appeared dangerous and menacing.",4,1,8
+"premID23","we laid in fields of gold ","hypoID89","we laid in fields of bright corn",3,1,8
+"premID4","Faith feeds among the tombs and even from these dead doubts she gathers her most vital hope. ","hypoID14","Faith is especially strong in the moments of danger and can it gives hope in times of despair.",3,1,8
+"premID167","You disagree ? Ok  shoot ","hypoID666","You disagree ? Ok  shoot yourself",1,0,8
+"premID118","The darted harpoon was lightning in the sea. ","hypoID470","The darted harpoon was slow and grey in the sea",1,0,8
+"premID77","I was home watching the days slip by from my window ","hypoID305","I was home doing many important things",1,0,8
+"premID84","In the worst of times we looked at hope  shining in the dark ","hypoID334","In the worst of times we lost all hopes",1,0,8
+"premID113","He felt a wave of excitement ","hypoID450","he felt a mild disappointment",1,0,8
+"premID176","He thinks these documents will leak out soon or late","hypoID703","He thinks these documents will become secret soon or late ",2,1,8
+"premID129","The iron in the tail of the animal was a restless needle. ","hypoID516","The iron in the tail of the animal was thick and large.",2,1,8
+"premID31","Ahab was a pyramid but I kept kicking at him.  ","hypoID122","Ahab was absolutely firm in his intentions but I kept trying to change his mind.",4,1,8
+"premID111","The children were roses beautiful and forlorn ","hypoID443","The children were ugly and angry",1,0,8
+"premID4","Faith feeds among the tombs and even from these dead doubts she gathers her most vital hope. ","hypoID15","Faith is something strange and hard to understand.",1,0,8
+"premID180","The faculty meeting was a nightmare","hypoID719","The faculty meeting was very difficult and emotional ",3,1,8
+"premID6","While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.  ","hypoID21","While his one live leg made lively echoes along the deck every stroke of his dead limb sounded gloomy.",3,1,8
+"premID116","She had a bright idea ","hypoID461","She came up with a brilliant idea",4,1,8
+"premID114","He hated the stench of failure. ","hypoID455","He hated to see or experience failure.",4,1,8
+"premID11","her smile was a blinding sun ","hypoID42","her smile was incredibly ugly",1,0,8
+"premID71","His purplish head was a skull under the moon. ","hypoID282","His purplish head was bald and white under the moon.",3,1,8
+"premID122","The future looks very promising  ","hypoID488","the future looks very dark",1,0,8
+"premID87","It is sad to observe the fruits of ignorance. ","hypoID348","It is sad to observe the origins of ignorance.",2,1,8
+"premID108","The boss will eat me alive if the report arrives late. ","hypoID432","The boss will eat a man if the report arrives late.",2,1,8
+"premID50","He drowned in a sea of grief. ","hypoID199","He was extremely sad.",4,1,8
+"premID15","my love is a summer day ","hypoID57","my feeling of love is cold and dark  like a summer day",1,0,8
+"premID140","The rich man had a cold heart ","hypoID557","The rich man was generous and caring",1,0,8
+"premID94","She said that she could smell infidelity from a mile. ","hypoID374","She said that infidelity was apparent to her.",4,1,8
+"premID117","You'd better keep away from Bill today because he's in a black mood. ","hypoID465","Bill is angry and sad and so you'd better keep away from him today.",4,1,8
+"premID164","When I looked at my friend after the storm he was a ghost. ","hypoID653","When I looked at my friend after the storm he was full of enthusiasm.",1,0,8
+"premID92","My friend said the project was a nightmare ","hypoID366","my friend told me the project was relaxing",1,0,8
+"premID46","For the end of the year  I was burned and broken ","hypoID184","For the end of the year  I was in bad conditions and without money",3,1,8
+"premID64","He was so happy he felt his heart was exploding ","hypoID253","he was overwhelmed by happiness",4,1,8
+"premID84","In the worst of times we looked at hope  shining in the dark ","hypoID336","In we worst of times we were tired and confused",1,0,8
+"premID111","The children were roses beautiful and forlorn ","hypoID444","The children were young and beautiful",3,1,8
+"premID59","He pleaded for her forgiveness but Janet was a statue ","hypoID234","He pleaded for her forgiveness and Janet forgave him",1,0,8
+"premID51","He felt a dark sexual desire ","hypoID204","He had a dark fear of sexual desire",1,0,8
+"premID86","It always rained in my life  he said ","hypoID342","I was always a true optimist  he said",1,0,8
+"premID156","They were burning with desire ","hypoID624","They were uninterested",1,0,8
+"premID63","He was living in his dream world  shutting his eyes in front of reality ","hypoID251","He was a very realistic and practical person",1,0,8
+"premID143","The seeds of change were planted in 1943 ","hypoID569","1943 was the very beginning of a change",4,1,8
+"premID123","The faculty meeting was a comedy show ","hypoID489","At the faculty meeting we watched a comedy show",2,1,8
+"premID86","It always rained in my life  he said ","hypoID341","I always have bad things happening to me  he said",4,1,8
+"premID97","O Moon your light is failing and now you are just a cold bow ","hypoID387","the Moon became a bow all of a sudden",2,1,8
+"premID108","The boss will eat me alive if the report arrives late. ","hypoID430","The boss might be annoyed if the report arrives late.",3,1,8
+"premID42","She was the light of my life.","hypoID168","she made it possible to see the road by night",2,1,8
+"premID45","Floating on the waves we saw the abandoned boat a dark sight indeed. ","hypoID180","Floating on the waves we saw the abandoned boat and it was sad to see it.",3,1,8
+"premID159","Those galaxies were jellyfishes in the abyss of space. ","hypoID636","Those galaxies were bright in the darkness of space.",3,1,8
+"premID82","You were hanging yourself on someone else 's words ","hypoID328","You were ready to die for what someone else said",3,1,8
+"premID158","This is a trap sentence ","hypoID629","If you give a high score to this sentence you don’t get paid",1,0,8
+"premID105","The President brushed aside the accusations ","hypoID418","The president basically dismissed all the accusations",4,1,8
+"premID66","Her joy was blinding ","hypoID264","Her joy was strong and intense",4,1,8
+"premID66","Her joy was blinding ","hypoID263","Her joy was overwhelming",4,1,8
+"premID156","They were burning with desire ","hypoID623","They were burning a house",1,0,8
+"premID68","His condescending attitude made my blood boil. ","hypoID271","His condescending attitude made me really angry.",4,1,8
+"premID14","life is just a dream in the night ","hypoID56","the nature of life is ephemeral",3,1,8
+"premID72","How can we build a knowledge economy if research is handcuffed? (Barque and Chaumartin 2009) ","hypoID285","How can I build a house if when I am handcuffed ?",1,0,8
+"premID177","The weeks crawled by until we could meet again","hypoID706","the weeks seemed to pass fast until we could meet again ",2,1,8
+"premID143","The seeds of change were planted in 1943 ","hypoID570","The change started back in 1943",4,1,8
+"premID110","You were hanging yourself on someone else 's words ","hypoID439","You gave an extreme importance to what someone else said",3,1,9
+"premID51","He felt a dark sexual desire ","hypoID203","He felt an obscure and disquieting sexual desire",4,1,9
+"premID31","Ahab was a pyramid but I kept kicking at him.  ","hypoID121","Ahab was a tomb and I kept hitting him.",2,1,9
+"premID178","Words are weapons","hypoID712","Weapons are words ",2,1,9
+"premID32","All the following sentences have nothing to do with this sentence ","hypoID128","He thinks these documents will become secret soon or late",1,0,9
+"premID165","When it rains in Tokyo the city becomes a sea of umbrellas. ","hypoID657","Tokyo is filled with umbrellas when it rains.",4,1,9
+"premID129","The iron in the tail of the animal was a restless needle. ","hypoID514","The iron in the tail of the animal was long and thin.",3,1,9
+"premID183","The faculty meeting was an easy breeze","hypoID729","The faculty meeting was ridiculous ",2,1,9
+"premID186","I think we should think about the roots of the problem ","hypoID737","I think we should think about the consequences of the problem ",2,1,9
+"premID60","He said the leaders will have to deal with an ocean of resentment ","hypoID240","The leaders  he said  will have to confront a very widespread and intense resentment",4,1,9
+"premID80","I was staring straight into the shining sun ","hypoID317","I had decided to deal with the truth",3,1,9
+"premID158","This is a trap sentence ","hypoID631","This is not even semantically related",1,0,9
+"premID17","she cut him down with her words ","hypoID67","she put him down with her words",4,1,9
+"premID117","You'd better keep away from Bill today because he's in a black mood. ","hypoID467","You'd better keep away from Bill today because he's happy.",1,0,9
+"premID177","The weeks crawled by until we could meet again","hypoID708","during the week , people crawled by until we could meet again ",2,1,9
+"premID29","After letting off his rage he sat down like a lamb. ","hypoID116","After letting off his rage he sat down very mildly.",4,1,9
+"premID90","Mark ’s comments are an acid bath for my nerves. ","hypoID360","Mark ’s comments are sarcastic and irritating.",4,1,9
+"premID112","He felt a wave of anger ","hypoID448","he felt an intense rage",3,1,9
+"premID174","The faculty meeting was a breeze","hypoID696","At the faculty meeting we talked about the breeze ",2,1,9
+"premID85","She was lost in her thoughts and memories ","hypoID338","She was attentive and present to the conversation",1,0,9
+"premID170","Jane knew these dicsussions were the seeds of a potential conflict","hypoID677","Jane knew these discusssions were the beginning of a potential conflict ",4,1,9
+"premID77","I was home watching the days slip by from my window ","hypoID308","I was home thinking about the time I was wasting",3,1,9
+"premID186","I think we should think about the roots of the problem ","hypoID740","I think we should clarify the reasons of the problem ",3,1,9
+"premID37","Calm down - there's no need to get all steamed up about it. ","hypoID146","Calm down - there's no need to get enthusiastic about it.",2,1,9
+"premID89","Katie’s plan to get into college was a house of cards on a crooked table ","hypoID355","Katie’s plan to get into college was hopeless and based on wishful thinking",4,1,9
+"premID120","The faculty meeting was a tragedy ","hypoID480","the faculty meeting was very bad",4,1,9
+"premID90","Mark ’s comments are an acid bath for my nerves. ","hypoID357","Mark made some comments about my nerves.",1,0,9
+"premID64","He was so happy he felt his heart was exploding ","hypoID255","he was so happy his car exploded",1,0,9
+"premID64","He was so happy he felt his heart was exploding ","hypoID256","he was very happy",3,1,9
+"premID55","He is the apple of my eye. ","hypoID217","He has an apple and an eye.",2,1,9
+"premID38","David is a worm for what he did to Shelia ","hypoID151","David lives underground for what he did to Shelia",2,1,9
+"premID147","The war devoured so many lives. ","hypoID585","So many people were killed in the war.",4,1,9
+"premID169","She said he was very sweet and he smiled ","hypoID675","She said he was very nice and he smiled",4,1,9
+"premID13","an ancient anger exploded in his heart ","hypoID51","his ancient anger disappeared and he was happy",1,0,9
+"premID42","She was the light of my life.","hypoID167","When it was dark I could see the road because she was shining and bright.",2,1,9
+"premID11","her smile was a blinding sun ","hypoID43","her smile was wonderful and could rejoice",3,1,9
+"premID131","The moment had arrived for killing the past and coming back to life ","hypoID524","the moment had arrived to think about what had happened and remember",1,0,9
+"premID158","This is a trap sentence ","hypoID630","If you score this high I am sad",1,0,9
+"premID121","The faculty meeting was a war ","hypoID482","The faculty meeting was highly aggressive",4,1,9
+"premID131","The moment had arrived for killing the past and coming back to life ","hypoID522","the moment had arrived to stop thinking about the past and think about the future",4,1,9
+"premID81","I've reached my boiling point. ","hypoID321","I am boiling some water.",2,1,9
+"premID73","I asked for your help and you disappeared from radar ","hypoID291","I asked you for help and you were reparing a radar",1,0,9
+"premID112","He felt a wave of anger ","hypoID445","He felt an intense anger",4,1,9
+"premID156","They were burning with desire ","hypoID622","They felt an intense desire",4,1,9
+"premID132","She had a heart of stone. ","hypoID526","She was cold and indifferent.",4,1,9
+"premID168","You will love the new train  it is a heavenly ride ","hypoID670","You will love the new train  it is a great ride that it offers",4,1,9
+"premID174","The faculty meeting was a breeze","hypoID693","The faculty meeting was ridiculous ",2,1,9
+"premID182","She knew she was burning in shame","hypoID726","She knew she was feeling shame ",3,1,9
+"premID123","The faculty meeting was a comedy show ","hypoID492","The faculty meeting was very interesting",1,0,9
+"premID169","She said he was very sweet and he smiled ","hypoID673","She said he was covered in sugar and he smiled",2,1,9
+"premID76","I never won an argument with him ","hypoID302","I never managed to prevail in an argument with him",4,1,9
+"premID85","She was lost in her thoughts and memories ","hypoID339","She was distracted by her thoughts and memories",4,1,9
+"premID161","War was a nightmare. ","hypoID641","I had a dream.",1,0,9
+"premID60","He said the leaders will have to deal with an ocean of resentment ","hypoID238","He said the leaders will have to deal with some little displeasure",2,1,9
+"premID115","The computer in the classroom was a dinosaur ","hypoID460","The computer in the classroom was very small",1,0,9
+"premID22","then a colorful joy exploded in her chest ","hypoID86","then she felt an intense joy",4,1,9
+"premID106","The animal in the middle of the sea was a mountain. ","hypoID423","The animal in the middle of the sea was tall.",3,1,9
+"premID174","The faculty meeting was a breeze","hypoID695","The faculty meeting was very easy and relaxing ",4,1,9
+"premID44","Fear had changed him to a shaken jelly. ","hypoID173","Fear made him shudder all over.",4,1,9
+"premID168","You will love the new train  it is a heavenly ride ","hypoID669","You will love the new train  it goes through Heaven",2,1,9
+"premID20","the wheels of justice turn slowly ","hypoID78","it might take time but eventually justice prevails",4,1,9
+"premID76","I never won an argument with him ","hypoID303","I never won a battle with him",2,1,9
+"premID180","The faculty meeting was a nightmare","hypoID718","The faculty meeting was calm and relaxing ",2,1,10
+"premID38","David is a worm for what he did to Shelia ","hypoID152","Given what he did to Shelia I have a low opinion of David",3,1,10
+"premID115","The computer in the classroom was a dinosaur ","hypoID457","In the class there was a computer that was incredibly old and big",4,1,10
+"premID81","I've reached my boiling point. ","hypoID324","the news got you angry.",3,1,10
+"premID154","Then they cried a sea of tears ","hypoID615","then they were very sad",3,1,10
+"premID2","She was sure she was living this fantasy romance and kept deluding herself ","hypoID5","she thought she was having a romantic story",2,1,10
+"premID153","She is fishing in troubled waters. ","hypoID612","She is looking for trouble.",3,1,10
+"premID53","He is grinning like an ape. ","hypoID212","He is smiling in a charming way.",2,1,10
+"premID83","If you are drowning in a sea of minor problems you cannot focus on what matters ","hypoID330","If you have a high number of minor problems you cannot focus on what matters",4,1,10
+"premID135","The news inflamed your temper. ","hypoID537","The news made you very angry.",4,1,10
+"premID22","then a colorful joy exploded in her chest ","hypoID85","then her chest exploded due to excessive joy",2,1,10
+"premID87","It is sad to observe the fruits of ignorance. ","hypoID347","It is sad to observe the effects of ignorance.",4,1,10
+"premID132","She had a heart of stone. ","hypoID525","She had a heart and a stone.",2,1,10
+"premID62","He was in a black mood. ","hypoID248","He was irritable and angry.",4,1,10
+"premID186","I think we should think about the roots of the problem ","hypoID738","I think we should think about the origins of the problem ",4,1,10
+"premID27","He had a full bag of memories to unload. ","hypoID105","He had a lot of memories to communicate to someone.",3,1,10
+"premID106","The animal in the middle of the sea was a mountain. ","hypoID421","The animal in the middle of the sea was large.",4,1,10
+"premID97","O Moon your light is failing and now you are just a cold bow ","hypoID388","the Moon' s light is dimmer and now it has the shape of a bow",2,1,10
+"premID138","The promise between us was a flower ","hypoID550","The promise  between us was strange and unsettling",1,0,10
+"premID133","The new band was absolutely on fire ","hypoID530","the new band was doing absolutely great",4,1,10
+"premID100","See the sun  far off  a shriveled orange in a sky gone black ","hypoID399","see the sun  far off  it looks small and orange in a sky gone black",3,1,10
+"premID133","The new band was absolutely on fire ","hypoID532","the new band was very energetic and having a lot of success",4,1,10
+"premID38","David is a worm for what he did to Shelia ","hypoID149","David is a despicable person for what he did to Shelia",4,1,10
+"premID148","The wind howled; the waves dashed their bucklers together - we were in the jaws of death  ","hypoID591","The wind roared; the waves collided - we were in the jaws of a fish.",2,1,10
+"premID83","If you are drowning in a sea of minor problems you cannot focus on what matters ","hypoID332","If you let a large number of minor problems overwhelm you you cannot focus on what matters",4,1,10
+"premID8","Don't mention Tom 's promotion to Mike as it would be a red flag to a bull. ","hypoID32","The leader brushed aside the accusations.",1,0,10
+"premID130","The man still had heavy feelings about the situation ","hypoID517","The man still felt a hint of suspicion about the situation",2,1,10
+"premID36","By that time my friend was broken so he had to sell his house ","hypoID142","By that time my friend had no money so he had to sell his house",4,1,10
+"premID147","The war devoured so many lives. ","hypoID587","The war saved so many lives.",1,0,10
+"premID92","My friend said the project was a nightmare ","hypoID368","the project was particularly distressing  according to my friend",4,1,10
+"premID140","The rich man had a cold heart ","hypoID558","The rich man was impulsive and mad",2,1,10
+"premID59","He pleaded for her forgiveness but Janet was a statue ","hypoID235","He pleaded for her forgiveness and Janet smiled",1,0,10
+"premID2","She was sure she was living this fantasy romance and kept deluding herself ","hypoID7","she was sure she was living an romantic adventure and kept deluding herself",4,1,10
+"premID99","People think the old man has a sour temper ","hypoID395","people think the old man has an unsociable and aggressive temper",4,1,10
+"premID154","Then they cried a sea of tears ","hypoID614","then they sailed to sea",1,0,10
+"premID119","The employee swallows her anger ","hypoID476","The employee swallows her water without a sign of anger",2,1,10
+"premID1","She was ready to turn her hand and heart to anything that promised to yield safety.  ","hypoID4","She was ready to fear anything that promised to yield safety.",1,0,10
+"premID70","His friend was very tall and he looked like a chess piece beside him.  ","hypoID279","His friend was very tall and he looked small beside him.",4,1,10
+"premID89","Katie’s plan to get into college was a house of cards on a crooked table ","hypoID356","Katie’s plan to get into college was realistic and had good chances",1,0,10
+"premID19","the flowers danced in the wind ","hypoID74","the flowers moved in the wind",4,1,10
+"premID24","we were sinking in an ocean of grass ","hypoID96","we were surrounded by a vast quantity of grass",4,1,10
+"premID173","The warrior was a lion on the battlefield","hypoID689","The warrior was brave and strong on the battlefield ",4,1,10
+"premID40","Each blade of grass was a bayonet pointed firmly at our bare feet ","hypoID158","Each blade of grass was soft under our bare feet",1,0,10
+"premID145","The sky was on fire and he felt pain pouring down. ","hypoID580","The sky was white and he felt a light hint of pain.",1,0,10
+"premID150","The woman had a blue feeling ","hypoID597","The woman had a joyous feeling",1,0,10
+"premID93","My lawyer is a shark ","hypoID371","My lawyer is smart but lovely",1,0,10
+"premID127","The house was a tomb. ","hypoID508","The house was silent.",4,1,10
+"premID8","Don't mention Tom 's promotion to Mike as it would be a red flag to a bull. ","hypoID30","Don't mention Tom 's promotion to Mike as it is sure to make him angry.",4,1,10
+"premID19","the flowers danced in the wind ","hypoID76","the wind danced in the flowers",2,1,10
+"premID104","The Leviathan in the ocean is a moving country. ","hypoID416","The Leviathan in the ocean is small.",1,0,10
+"premID90","Mark ’s comments are an acid bath for my nerves. ","hypoID358","Mark ’s comments are interesting.",1,0,10
+"premID68","His condescending attitude made my blood boil. ","hypoID272","I got really angry at his condescending attitude.",4,1,10
+"premID175","Silence was crushing . I knew the moment had arrived","hypoID697","Silence was total  . I knew the moment had arrived ",4,1,10
+"premID107","The animal shakes its tail in the air like a whip. ","hypoID427","The animal shakes its tail in the air and it is thin and long",3,1,10
+"premID170","Jane knew these dicsussions were the seeds of a potential conflict","hypoID678","Jane thought that a conflict might have started due to these discussions ",3,1,10
+"premID42","She was the light of my life.","hypoID166","When I was sad or in a bad mood she would always make me feel better.",4,1,10
+"premID29","After letting off his rage he sat down like a lamb. ","hypoID113","After letting off his rage he ran away.",1,0,10
+"premID98","Our whole life we swim against the waves towards the green light of happiness. ","hypoID390","Our whole life we swim against the waves towards the green light of desperation.",1,0,10
+"premID128","You were the golden boy back then ","hypoID511","you were the flawless boy back then",3,1,10
+"premID34","And now they were leaking all kinds of documents ","hypoID133","And now all kinds of documents were being disclosed",4,1,10
+"premID53","He is grinning like an ape. ","hypoID211","He is smiling in a beastly way.",3,1,10
+"premID178","Words are weapons","hypoID710","Words can hurt somebody and help winning a war ",3,1,10
+"premID17","she cut him down with her words ","hypoID66","she left him bored with her words",2,1,11
+"premID75","I have to kill the program ","hypoID299","I have to start the program",1,0,11
+"premID110","You were hanging yourself on someone else 's words ","hypoID438","You did not care about what someone else said",1,0,11
+"premID144","The show was characterised by dark humor and satire ","hypoID574","The show was characterised by light humor and satire",1,0,11
+"premID169","She said he was very sweet and he smiled ","hypoID674","She said he was creepy and he smiled",1,0,11
+"premID101","She arrived at the grocery store with an army of children ","hypoID404","She arrived at the grocery store with very young children",1,0,11
+"premID165","When it rains in Tokyo the city becomes a sea of umbrellas. ","hypoID658","When it rains in Tokyo the city becomes a sea and there are some umbrellas in it.",2,1,11
+"premID19","the flowers danced in the wind ","hypoID75","the flowers were still",1,0,11
+"premID108","The boss will eat me alive if the report arrives late. ","hypoID431","The boss will criticise me severely if the report arrives late.",4,1,11
+"premID62","He was in a black mood. ","hypoID247","He was in a black suit",1,0,11
+"premID28","Adam did not understand the root of the crisis  ","hypoID112","the reasons of the crisis were not understood by Adam",4,1,11
+"premID187","You have to head straight into your fears to win them","hypoID743","you have to face your friends to win them ",2,1,11
+"premID149","The woman burst in a warm laughter ","hypoID593","The woman burst in a mad laughter",1,0,11
+"premID25","A break up can leave you with a broken heart. ","hypoID97","A break up can leave you with cardiac problems.",2,1,11
+"premID51","He felt a dark sexual desire ","hypoID202","He felt a sexual desire hard to interpret or define",2,1,11
+"premID81","I've reached my boiling point. ","hypoID323","I enjoy this situation to a certain extent.",1,0,11
+"premID131","The moment had arrived for killing the past and coming back to life ","hypoID523","the moment had arrived to talk about the past and forget about life",1,0,11
+"premID13","an ancient anger exploded in his heart ","hypoID52","his ancient heart exploded",2,1,11
+"premID29","After letting off his rage he sat down like a lamb. ","hypoID114","After letting off his rage he sat down in a nervous way.",2,1,11
+"premID44","Fear had changed him to a shaken jelly. ","hypoID176","He was not afraid.",1,0,11
+"premID144","The show was characterised by dark humor and satire ","hypoID575","The show was characterised by low level gags",2,1,11
+"premID33","The faculty meeting was a real war ","hypoID129","At the faculty meeting we talked about real war",2,1,11
+"premID11","her smile was a blinding sun ","hypoID41","her smile was in the sky during the day",1,0,11
+"premID57","He lived in a state of deep terror ","hypoID228","He lived in a state of subtle fear",2,1,11
+"premID83","If you are drowning in a sea of minor problems you cannot focus on what matters ","hypoID331","If you have very little problems you cannot focus on what matters",2,1,11
+"premID105","The President brushed aside the accusations ","hypoID420","The president was taken aback by the accusations",1,0,11
+"premID175","Silence was crushing . I knew the moment had arrived","hypoID700","Silence was relaxing . I knew the moment had arrived ",2,1,11
+"premID157","They were stirring excitement ","hypoID625","They were clearly trying to provoke some excitement",3,1,11
+"premID76","I never won an argument with him ","hypoID301","I never had an argument with him",1,0,11
+"premID38","David is a worm for what he did to Shelia ","hypoID150","David is a hero for what he did to Shelia",1,0,11
+"premID138","The promise between us was a flower ","hypoID551","The promise between us was beautiful and fragile",4,1,11
+"premID141","The roots of progress are in technological development. ","hypoID563","The causes of progress are in technological development.",4,1,11
+"premID136","The old tenant gave a bittersweet speech ","hypoID542","The old tenant gave a both serene and sad speech",3,1,11
+"premID142","The roots of the war were in the economical crisis ","hypoID567","The real causes of the war were in the economical crisis",4,1,11
+"premID22","then a colorful joy exploded in her chest ","hypoID88","then she was very joyous all of a sudden",3,1,11
+"premID126","The guy was a floating whale in the small swimming pool. ","hypoID502","The guy looked large and white in the small swimming pool.",3,1,11
+"premID87","It is sad to observe the fruits of ignorance. ","hypoID346","It is sad to observe the apples of ignorance.",2,1,11
+"premID108","The boss will eat me alive if the report arrives late. ","hypoID429","The boss is a cannibal and I am in danger.",2,1,11
+"premID175","Silence was crushing . I knew the moment had arrived","hypoID698","There was an absolute silence and I knew that the moment had arrived ",3,1,11
+"premID74","I had already planted the idea in her mind. ","hypoID293","I had already insinuated the idea to her.",4,1,11
+"premID63","He was living in his dream world  shutting his eyes in front of reality ","hypoID252","He was living on his own and when he slept he used to dream",1,0,11
+"premID2","She was sure she was living this fantasy romance and kept deluding herself ","hypoID8","she was sure she was reading a fantasy romance and kept deluding herself",2,1,11
+"premID10","he was feeling down hurt and sad  ","hypoID39","he had a spicy heart",1,0,11
+"premID138","The promise between us was a flower ","hypoID549","Our promise was something that needed care and attention",3,1,11
+"premID53","He is grinning like an ape. ","hypoID210","He is grinning in a stupid manner.",3,1,11
+"premID144","The show was characterised by dark humor and satire ","hypoID576","The show was known to joke about matters considered taboo and for its use of satire",4,1,11
+"premID167","You disagree ? Ok  shoot ","hypoID667","You disagree ? Ok  shut up",1,0,11
+"premID42","She was the light of my life.","hypoID165","She was the life of my light.",2,1,11
+"premID92","My friend said the project was a nightmare ","hypoID367","the project was as easy as a breeze  according to my friend",1,0,11
+"premID101","She arrived at the grocery store with an army of children ","hypoID402","She arrived at the grocery store with a massive group of children",4,1,11
+"premID152","Your words surround me but I will not surrender ","hypoID608","You speak so much I am confused  I cannot keep my point",1,0,11
+"premID98","Our whole life we swim against the waves towards the green light of happiness. ","hypoID389","Our whole life we ignore happiness and we focus on the waves.",2,1,11
+"premID58","He looked neither one way nor the other way but sat like a carved image. ","hypoID229","He looked neither one way nor the other way but sat completely still.",4,1,11
+"premID67","Here comes the fool with his foggy brain ","hypoID266","Here comes the fool with his clear vision",1,0,11
+"premID162","We dug up some interesting facts ","hypoID648","We retrieved some interesting facts",4,1,11
+"premID96","Now you can fade off to sleep.  ","hypoID384","Now you can wake up.",1,0,11
+"premID52","He felt a sudden red pain through his leg ","hypoID205","He felt a slow uncomfortable feeling creeping up his leg",2,1,11
+"premID181","When I met the boss he seemed bitter about the whole story","hypoID724","When I met the boss he seemed indifferent to the whole story ",2,1,11
+"premID61","He shot down all my arguments ","hypoID243","He rendered all my arguments ineffective",3,1,11
+"premID103","I was alone in a sea of unknown faces ","hypoID412","I was among many people I did not know  all alone",3,1,11
+"premID116","She had a bright idea ","hypoID464","She had a good idea",4,1,11
+"premID45","Floating on the waves we saw the abandoned boat a dark sight indeed. ","hypoID179","Floating on the waves we saw the abandoned boat a scary sight indeed.",3,1,11
+"premID159","Those galaxies were jellyfishes in the abyss of space. ","hypoID635","Those galaxies were black in the darkness of space.",2,1,12
+"premID54","He is in such a hurry he does not run  he flies ","hypoID215","Since he is in a great hurry he goes as fast as he can",3,1,12
+"premID37","Calm down - there's no need to get all steamed up about it. ","hypoID145","Calm down - there's no need to get angry about it.",4,1,12
+"premID172","Her pen was a knife","hypoID685","She wrote powerful and painful words ",4,1,12
+"premID152","Your words surround me but I will not surrender ","hypoID606","You speak in a charming and effective way but I am not convinced",4,1,12
+"premID21","You were dying to believe in what you heard ","hypoID82","You liked what you heard so much  you just wanted to believe it",4,1,12
+"premID12","it is midnight now : all masks fall ","hypoID46","it is a bad time now and everything appears for what it is",3,1,12
+"premID124","The girl broke into the conversation ","hypoID494","The girl gradually grew interested into the conversation",1,0,12
+"premID115","The computer in the classroom was a dinosaur ","hypoID459","The computer in the classroom was very old",4,1,12
+"premID8","Don't mention Tom 's promotion to Mike as it would be a red flag to a bull. ","hypoID29","Don't mention Tom 's promotion to Mike as It won't make him happy.",3,1,12
+"premID53","He is grinning like an ape. ","hypoID209","He is crying.",1,0,12
+"premID136","The old tenant gave a bittersweet speech ","hypoID543","The old tenant gave a ironic speech",2,1,12
+"premID6","While his one live leg made lively echoes along the deck  every stroke of his dead limb sounded like a coffin tap.  ","hypoID23","While his one live leg made lively echoes along the deck every stroke of his dead limb was amusing.",1,0,12
+"premID71","His purplish head was a skull under the moon. ","hypoID281","His head was bright under the moon.",3,1,12
+"premID48","He always had an interest for the fruit of knowledge ","hypoID192","He always had an interest for the ways knowledge can be practically used",3,1,12
+"premID9","The great gold apples of light hang from the street’s long bough dripping their light on the faces that drift below on the faces that drift and blow ","hypoID33","beyond the river that drifts and blows you will find the great gold apples of light",2,1,12
+"premID48","He always had an interest for the fruit of knowledge ","hypoID189","He always had an interest for the benefits of knowledge",4,1,12
+"premID40","Each blade of grass was a bayonet pointed firmly at our bare feet ","hypoID160","We could painfully feel each blade of grass on our bare feet",4,1,12
+"premID79","I was on a rollercoaster of emotions. ","hypoID314","I was experiencing extreme changes in my feelings.",4,1,12
+"premID43","I demolished his argument ","hypoID172","I liked and supported his arguments",1,0,12
+"premID58","He looked neither one way nor the other way but sat like a carved image. ","hypoID232","He sat completely still looking neither one way nor the other.",3,1,12
+"premID57","He lived in a state of deep terror ","hypoID226","He lived in a state of intense terror",4,1,12
+"premID179","Her eyes were fireflies","hypoID713","Her eyes were small and bright ",4,1,12
+"premID72","How can we build a knowledge economy if research is handcuffed? (Barque and Chaumartin 2009) ","hypoID286","How can we build a knowledge economy if research is blocked?",4,1,12
+"premID128","You were the golden boy back then ","hypoID509","you were the boy with tons of gold back then",2,1,12
+"premID150","The woman had a blue feeling ","hypoID598","The woman had a sad feeling",4,1,12
+"premID89","Katie’s plan to get into college was a house of cards on a crooked table ","hypoID353","Katie’s college was a house of cards on a crooked table",2,1,12
+"premID27","He had a full bag of memories to unload. ","hypoID107","He had many memories about a bag that he needed to unload.",2,1,12
+"premID119","The employee swallows her anger ","hypoID474","The employee represses her anger",3,1,12
+"premID187","You have to head straight into your fears to win them","hypoID742","You have to be honest about your fears to overcome them ",3,1,12
+"premID132","She had a heart of stone. ","hypoID527","She was cruel.",4,1,12
+"premID104","The Leviathan in the ocean is a moving country. ","hypoID414","The Leviathan in the ocean is huge.",4,1,12
+"premID154","Then they cried a sea of tears ","hypoID616","they were very sad and cried a lot",4,1,12
+"premID140","The rich man had a cold heart ","hypoID559","The rich man was selfish and indifferent",3,1,12
+"premID122","The future looks very promising  ","hypoID485","the future is a cloudless sky",2,1,12
+"premID134","The new city was a maze for him. ","hypoID533","He had a hard time finding his way through the new city.",4,1,12
+"premID73","I asked for your help and you disappeared from radar ","hypoID289","I asked for your help and you did not answer and were impossible to find",3,1,12
+"premID148","The wind howled; the waves dashed their bucklers together - we were in the jaws of death  ","hypoID589","The wind roared; the waves collided - we were fine.",1,0,12
+"premID135","The news inflamed your temper. ","hypoID538","The news upset you.",3,1,12
+"premID85","She was lost in her thoughts and memories ","hypoID340","She was thinking and intensely remembering",3,1,12
+"premID130","The man still had heavy feelings about the situation ","hypoID519","The man still had unpleasant and negative feelings about the situation",4,1,12
+"premID28","Adam did not understand the root of the crisis  ","hypoID110","Adam did not understand the reasons of the crisis",4,1,12
+"premID68","His condescending attitude made my blood boil. ","hypoID269","His condescending attitude made me bleed.",1,0,12
+"premID115","The computer in the classroom was a dinosaur ","hypoID458","The computer in the classroom was a lion",1,0,12
+"premID173","The warrior was a lion on the battlefield","hypoID691","The warrior was a coward on the battlefield ",2,1,12
+"premID4","Faith feeds among the tombs and even from these dead doubts she gathers her most vital hope. ","hypoID13","Faith comes from the tombs and feeds the doubts.",2,1,12
+"premID176","He thinks these documents will leak out soon or late","hypoID704","He thinks these documents will be destroyed ",2,1,12
+"premID7","David’s eyes were like daggers at Paul when Paul invited his new girlfriend to dance. ","hypoID25","David had two daggers when Paul invited his new girlfriend to dance.",2,1,12
+"premID45","Floating on the waves we saw the abandoned boat a dark sight indeed. ","hypoID178","Floating on the waves we saw the abandoned boat a sad sight indeed.",4,1,12
+"premID174","The faculty meeting was a breeze","hypoID694","The faculty meeting was calm ",3,1,12
+"premID179","Her eyes were fireflies","hypoID714","Her eyes had a strange brightness ",3,1,12
+"premID86","It always rained in my life  he said ","hypoID344","I was very unlucky in my life  he said",4,1,12
+"premID143","The seeds of change were planted in 1943 ","hypoID572","The seeds of several trees were planted in 1943",2,1,12
+"premID141","The roots of progress are in technological development. ","hypoID564","The mechanism that promotes progress is technological development.",3,1,12
+"premID91","I embarked on life thirty years ago ","hypoID362","I started a travel thirty years ago",2,1,12
+"premID49","He attacked every weak point in my argument ","hypoID195","He pointed out every weak point in my argument",4,1,12
+"premID39","During the conflict the seeds of peace were planted. ","hypoID156","Janet was trying to start a conflict.",1,0,12
+"premID139","The republican convention was a horror show ","hypoID556","during the republican convention people talked about a horror show",1,0,12
+"premID91","I embarked on life thirty years ago ","hypoID364","My life started thirty years ago",4,1,12
+"premID172","Her pen was a knife","hypoID686","She wrote sharp and accusatory words ",3,1,12
+"premID163","We still ignore how the seed of life was planted on our planet ","hypoID649","We still do not know how life developed on Earth",2,1,12
+"premID103","I was alone in a sea of unknown faces ","hypoID410","I was alone in a large number of unknown faces",4,1,12
