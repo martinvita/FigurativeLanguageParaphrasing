@@ -48,6 +48,9 @@ emb.mat <- as.matrix(aux.join[,3:ncol(aux.join)])
 # NA values are set to all-zero vectors (words not covered by the FastText pretrained embeddings as well as padded values)
 emb.mat[is.na(emb.mat)] <- 0
 
+# tricky solution of different indexing R vs. Python (to match the right row of the emb. matrix)
+emb.mat2 <- rbind(rep(0, times = FLAGS$embedding_size), emb.mat)
+
 # texts, i. e. questions are transformed into sequences of numbers -- w. r. t. tokenizer results
 prems <- texts_to_sequences(tokenizer, raw.corpus$Premise)
 hypos <- texts_to_sequences(tokenizer, raw.corpus$Hypothesis)
@@ -75,7 +78,7 @@ embedding <- layer_embedding(
   input_length = FLAGS$max_len_padding,
   
   # weights are stored in the embedding matrix
-  weights = list(emb.mat),
+  weights = list(emb.mat2),
   
   # word embeddings are not trained
   trainable = F
